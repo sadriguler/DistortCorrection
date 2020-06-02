@@ -1,0 +1,3 @@
+﻿  radialDistortionModel.cpp
+C:\Users\Nano\Documents\sdr\WASS\2020_05_15_radialDistortionModel\radialDistortionModel\radialDistortionModel.cpp(105,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  radialDistortionModel.vcxproj -> C:\Users\Nano\Documents\sdr\WASS\2020_05_15_radialDistortionModel\radialDistortionModel\x64\Debug\radialDistortionModel.exe
